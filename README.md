@@ -66,7 +66,7 @@ Here's a glimpse of the technologies and tools I work with daily:
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontentcom/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
