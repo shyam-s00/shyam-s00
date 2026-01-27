@@ -27,7 +27,7 @@ I'm a passionate engineer who thrives on crafting elegant, efficient code and is
 
 ### 💻 Tech Stack & Tools
 
-Here's a glimpse of the technologies and tools I work with daily:
+Here's a glimpse of the technologies and tools I work with:
 
 <table>
   <tr>
