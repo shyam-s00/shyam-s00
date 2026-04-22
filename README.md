@@ -15,7 +15,7 @@
 
 I'm a passionate engineer who thrives on crafting elegant, efficient code and is perpetually exploring the ever-evolving mobile technology landscape.
 
-- 🚀 **Full-Stack Mobile Engineer**: I architect and build complete mobile solutions, from sleek user interfaces to robust backend services.
+- 🚀 **Seasoned Backend Engineer**: I architect and build robust server-side solutions, from scalable database schemas to high-performance APIs and microservices.
 - ⚡️ **Reactive Advocate**: Deeply invested in Reactive Programming paradigms, leveraging Rx to build responsive and resilient applications.
 - 🎓 **Google Certified Cloud Pro**: Recognized as a **Professional Cloud Developer** by Google.
 - 🔧 **Kubernetes & Service Mesh Expert**: Proficient in orchestrating complex systems and managing microservices at scale.
@@ -88,11 +88,6 @@ Here's a glimpse of the technologies and tools I work with:
 
 ### 🛠️ Favourite IDEs
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="Rider" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="GoLand" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-</p>
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="Rider" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="GoLand" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></div>
 
 ---
