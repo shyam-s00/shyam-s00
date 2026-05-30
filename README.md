@@ -6,7 +6,7 @@
 <h1 align="center">Hello, World! I'm Shiyam 👋</h1>
 
 <p align="center">
-  <em>A tech enthusiast and full-stack mobile engineer, bridging the gap between client and server.</em>
+  <em>Backend Architect & Systems Engineer. Building high-throughput distributed systems, untangling enterprise monoliths, and writing open-source tooling in Go.</em>
 </p>
 
 ---
