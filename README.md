@@ -26,6 +26,8 @@ I'm a backend-focused engineer who thrives on crafting elegant, high-throughput 
 
 ---
 
+### 🌟 Featured Projects
+
 | Project | What it does | Stack |
 |---|---|---|
 | [**gopher-glide**](https://github.com/shyam-s00/gopher-glide) [![site](https://img.shields.io/badge/site-gopherglide.dev-00ADD8?style=flat-square)](https://gopherglide.dev) | High-fidelity API traffic simulator — goes beyond brute-force load testing with native IDE integration, zero-config profiles, and an interactive TUI for real-time chaos injection. | Go |
