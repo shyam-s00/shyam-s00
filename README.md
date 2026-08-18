@@ -26,16 +26,14 @@ I'm a backend-focused engineer who thrives on crafting elegant, high-throughput 
 
 ---
 
-### 🌟 Featured Projects
-
 | Project | What it does | Stack |
 |---|---|---|
 | [**gopher-glide**](https://github.com/shyam-s00/gopher-glide) [![site](https://img.shields.io/badge/site-gopherglide.dev-00ADD8?style=flat-square)](https://gopherglide.dev) | High-fidelity API traffic simulator — goes beyond brute-force load testing with native IDE integration, zero-config profiles, and an interactive TUI for real-time chaos injection. | Go |
+| [**epochsketch**](https://github.com/shyam-s00/epochsketch) [![site](https://img.shields.io/badge/site-epochsketch.dev-00ADD8?style=flat-square)](https://epochsketch.dev) | A fused frequency sketch — count, recency, and key-tag packed into a single 64-bit word, updated with one lock-free atomic CAS. ~21ns/op, 0 allocs/op, race-detector clean. | Go |
 | [**gg-idea-plugin**](https://github.com/shyam-s00/gg-idea-plugin) | JetBrains IDE plugin bringing gopher-glide's traffic simulation straight into your IDE workflow. | Kotlin |
 | [**gg-vscode-plugin**](https://github.com/shyam-s00/gg-vscode-plugin) | VS Code extension extending gopher-glide's tooling to the VS Code ecosystem. | TypeScript |
 | [**ObservableCollections**](https://github.com/shyam-s00/ObservableCollections) | A Rx-based `ObservableCollection` implementation for Python, bringing reactive collection semantics to Python apps. | Python |
 | [**ReactiveProbes**](https://github.com/shyam-s00/ReactiveProbes) | Reactive health probes built with Rx.NET for composable, event-driven service health checks. | C# |
-
 ---
 
 ### 💻 Tech Stack & Tools
@@ -71,4 +69,4 @@ I'm a backend-focused engineer who thrives on crafting elegant, high-throughput 
 
 ---
 
-<p align="center"><em>Last updated: July 2026</em></p>
+<p align="center"><em>Last updated: August 2026</em></p>
